@@ -98,3 +98,4 @@ insert into student (id, name, email, birth, origin) values (97, 'Libbi Lennard'
 insert into student (id, name, email, birth, origin) values (98, 'Hortense Harlow', 'hharlow2p@eepurl.com', '2000-03-03T04:20:48.00Z', 'Baranovichi');
 insert into student (id, name, email, birth, origin) values (99, 'Natalya Becaris', 'nbecaris2q@time.com', '1990-03-02T12:19:39.00Z', 'Soligorsk');
 insert into student (id, name, email, birth, origin) values (100, 'Upton Mugleston', 'umugleston2r@hao123.com', '1993-04-19T10:38:38.00Z', 'Minsk');
+ALTER SEQUENCE student_id_seq RESTART WITH 101;
