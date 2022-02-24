@@ -977,4 +977,4 @@ insert into student_course_task (course_id, student_id, task_id) values (4, 80, 
 insert into student_course_task (course_id, student_id, task_id) values (4, 85, 45);
 insert into student_course_task (course_id, student_id, task_id) values (4, 90, 45);
 insert into student_course_task (course_id, student_id, task_id) values (4, 95, 45);
-insert into student_course_task (course_id, student_id, task_id) values (4, 100, 45)
+insert into student_course_task (course_id, student_id, task_id) values (4, 100, 45);
