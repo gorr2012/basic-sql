@@ -48,3 +48,4 @@ insert into task (id, course_id, name, start_date, end_date) values (47, 1, 'UPS
 insert into task (id, course_id, name, start_date, end_date) values (48, 2, 'European Studies', '2022-01-31T18:30:08.000Z', '2022-02-22T18:30:08.000Z');
 insert into task (id, course_id, name, start_date, end_date) values (49, 3, 'First Time Home Sellers', '2022-02-21T04:14:17.000Z', '2022-03-13T04:14:17.000Z');
 insert into task (id, course_id, name, start_date, end_date) values (50, 4, 'UCS', '2021-11-30T21:09:29.000Z', '2021-12-14T21:09:29.000Z');
+ALTER SEQUENCE task_id_seq RESTART WITH 51;
